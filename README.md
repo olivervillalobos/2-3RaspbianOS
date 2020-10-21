@@ -8,19 +8,15 @@
 # Ingeniería en Sistemas Computacionales
 # Lenguajes de interfaz 
 
-# Practica Bloque: 📝
-# Objetivo: 
+# Practica Bloque: 2.3  (REPOST) Elabora la QEMU de RaspberryPI virtual y corra sus programas de CPP.
 
-
-# 📝 Apellidos, Nombres y Num Control
+# Villalobos Becerril Oliver
+# No.Control: 18212282
    
-
 # Profesor:
 # MC. René Solis Reyes
 # Semestre sep - ene 2020
 
------
-📝 Aqui su trabajo, etc.
 
 ![ejecutando qemu](https://images.cooltext.com/5473985.png)
 
