@@ -315,6 +315,6 @@ int main(){
 
 ![conclusion](https://images.cooltext.com/5473993.png)
 
-## Es importante compilar cualquier programa en c++ que se tenga en linux, ya que este nos indicara si funcionan correctamente, de igual manera esta practica ayuda para familiarizarse con el sistema operativo RaspbianOS y reforzar los conocimientos adquiridos en la certificacion del curso de C++ otorgada por SoloLearn. 
+## Es importante compilar cualquier programa en c++ que se tenga en linux, ya que este nos indicara si funcionan correctamente, de igual manera esta practica ayuda para familiarizarse con el sistema operativo RaspbianOS y reforzar los conocimientos adquiridos en la certificacion del curso de C++ otorgada por SoloLearn. Tambien se puede remarcar la utilidad de redactar archivos con markdown para hacer presentaciones de este tipo en perfiles de github.
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
